@@ -1,4 +1,4 @@
-## Quantum Lab
+## 💻 Quantum Lab
 📍 O laboratório faz parte de um projeto de iniciação cientifica e extensão formentado
 pela área de pesquisa e formento a tecnologia Anima HUB.
 
